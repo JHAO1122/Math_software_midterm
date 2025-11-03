@@ -1,4 +1,4 @@
-# This is the README file for the project "Conway's Game of Life" by TIANJIAHAO 3230105412
+# This is the README file for the project "Conway's Game of Life" 
 ## The purpose of the program
 Implement the project "Conway's Game of Life" by C language and visualize it.
 ## The functions of the program
